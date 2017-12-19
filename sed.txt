@@ -1,0 +1,12 @@
+s/Expletives/expletive/g
+s/Finite/finite/g
+s/Foc|/Focus|/g
+s/Impersonal/impersonal/g
+s/merged/merge/g
+s/null subjects/null subject/g
+s/Number/number/g
+s/relatives/relative/g
+s/Transitive Expletive Construction/Transitive expletives/g
+s/Complementiser/complementizer/g
+s/Spell/spell/g
+s/Relative clause/relative/g 
